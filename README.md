@@ -20,10 +20,8 @@
 
 <a href="mailto:romero.erick.enrique@gmail.com?Subject=Hello%20Erick">
 
-   ![GMail:ErickRomero](https://img.shields.io/badge/erick-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+   ![GMail:ErickRomero](https://img.shields.io/badge/-romero.erick.enrique@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)
 </a>
-</div>
-
 
 <div align="center">
   <h2>Languages, software and Tools :</h2>
