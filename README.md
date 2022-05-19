@@ -1,10 +1,8 @@
 <div align="center">
   <h1>Hello world! I am Erick Romero</h1>
   <h3> He/him 🧑​ | Mechatronics Engineer ​🔧​ | Software Developer 💻 | Mexican 🇲🇽 </h3>
-
   <img src="https://media.giphy.com/media/1psHTVVOU0lkV6K5LC/giphy.gif" width="300">
 </div>
-
 
 - 👀 I’m interested in Iot, web development and data analysis
 
@@ -39,3 +37,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;  
 </div>
 
+![imagen](https://github.com/ErickRomeroZ/ErickRomeroZ/blob/main/header_img.svg)
