@@ -1,6 +1,6 @@
-![img](https://github.com/ErickRomeroZ/ErickRomeroZ/blob/main/img.svg)
 <div align="center">
   <h1>Hello world! I am Erick Romero</h1>
+  <img src="https://github.com/ErickRomeroZ/ErickRomeroZ/blob/main/img.svg">
   <h3> He/him 🧑​ | Mechatronics Engineer ​🔧​ | Software Developer 💻 | Mexican 🇲🇽 </h3>
   <img src="https://media.giphy.com/media/1psHTVVOU0lkV6K5LC/giphy.gif" width="300">
 </div>
