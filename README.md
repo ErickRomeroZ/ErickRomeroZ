@@ -23,7 +23,7 @@
 </a>
 
 <div align="center">
-  <h2>Languages, software and Tools :</h2>
+  <h2>Languages, Software and Tools :</h2>
   <br>
 </div>
 <div align="center">
