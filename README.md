@@ -12,7 +12,7 @@
 - 📫 How to reach me:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/erick-romero-39426b17a/">
+  <a href="https://www.linkedin.com/in/erick-enrique-romero-zu%C3%B1iga-39426b17a/">
 
    ![Linkedin: ErickRomero](https://img.shields.io/badge/-ErickRomero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-enrique-romero-zu%C3%B1iga-39426b17a/)
 </a>
